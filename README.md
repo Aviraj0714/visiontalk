@@ -1,8 +1,4 @@
-Here's a professional `README.md` file for your **VisionTalk** project — a video calling platform with advanced features like gesture-based controls and multi-device seamless switching. You can customize further as needed:
 
----
-
-```markdown
 # VisionTalk 🎥✨
 
 **VisionTalk** is a modern and innovative video conferencing web application built with **Next.js**. It enables high-quality video calls with a seamless and intuitive experience, incorporating advanced features like **gesture-based controls**, **multi-device seamless switching**, and a futuristic UI.
@@ -23,7 +19,7 @@ Here's a professional `README.md` file for your **VisionTalk** project — a vid
 |---------------|----------------|--------------------------|
 | Next.js       | Node.js (if backend is used) | WebRTC / Socket.IO         |
 | Tailwind CSS  | Express.js (optional)       | Framer Motion / Zustand   |
-| TypeScript/JS | REST API or WebSockets      | AI-powered Gesture Detection (e.g., MediaPipe) |
+
 
 ## 🖼️ Screenshots
 
